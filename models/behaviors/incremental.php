@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Automatically increment certain column record (defauylt: 'sorting')
+ * Automatically increment specified column value (default: 'sorting')
  *
  * @author Tsuyoshi Saito
  */
